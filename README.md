@@ -3,7 +3,6 @@ University of Waterloo Women in Engineering Hackathon
 
 ## 🧠 InnerCare
 InnerCare is a full-stack mental health platform designed to help users—especially women—log their mental health, receive personalized coping strategies, and access curated wellness resources. The app features a custom dashboard, diary with voice-to-text support, stress metric visualization, and a ChatGPT-powered feedback engine.
----
 
 ## ✨ Features
 
